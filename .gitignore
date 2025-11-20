@@ -56,3 +56,4 @@ Thumbs.db
 # -----------------------------------------------------
 src/data/*.db
 src/data/*.sqlite
+video.mp4
