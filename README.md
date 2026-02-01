@@ -3,15 +3,15 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FOSSEE](https://img.shields.io/badge/FOSSEE-Screening_Task-orange?style=for-the-badge)
 
-## 📋 Overview
+## Overview
 
 This project was developed as part of the **FOSSEE Screening Task** submission. It demonstrates proficiency in Python development and UI implementation, showcasing clean code architecture and practical problem-solving skills.
 
-## 🎯 Purpose
+## Purpose
 
 Bridge Module UI serves as a comprehensive solution for [specific functionality - please update based on actual project details]. This project was created to meet the technical requirements of the FOSSEE fellowship program screening process.
 
-## ✨ Features
+## Features
 
 - **Modular Architecture**: Clean separation of concerns with reusable components
 - **User-Friendly Interface**: Intuitive UI design for seamless user experience
@@ -19,13 +19,13 @@ Bridge Module UI serves as a comprehensive solution for [specific functionality 
 - **Efficient Processing**: Optimized algorithms for fast performance
 - **Well-Documented**: Comprehensive code documentation and comments
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Language**: Python 3.x
 - **UI Framework**: [Specify framework - e.g., Tkinter, PyQt, PySide6, etc.]
 - **Additional Libraries**: [List key dependencies]
 
-## 📦 Installation
+## Installation
 
 ### Prerequisites
 
@@ -50,7 +50,7 @@ Bridge Module UI serves as a comprehensive solution for [specific functionality 
    python main.py
    ```
 
-## 🚀 Usage
+## Usage
 
 [Add specific usage instructions based on your application's functionality]
 
@@ -63,7 +63,7 @@ app = BridgeUI()
 app.run()
 ```
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 bridge-module-ui/
@@ -75,22 +75,22 @@ bridge-module-ui/
 └── README.md           # Documentation
 ```
 
-## 🎓 FOSSEE Context
+## FOSSEE Context
 
 This project was submitted as part of the FOSSEE (Free and Open Source Software for Education) screening task. FOSSEE is an initiative by IIT Bombay to promote the use of FLOSS (Free/Libre and Open Source Software) in educational institutions.
 
-## 📝 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👤 Author
+## Author
 
 **Divyansh Shekhar (KryptoVader)**
 
 - GitHub: [@KryptoVader](https://github.com/KryptoVader)
 - LinkedIn: [Divyansh Shekhar](https://www.linkedin.com/in/divyansh-shekhar-36a883330/)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - FOSSEE Team at IIT Bombay for the opportunity
 - Open source community for inspiration and resources
@@ -99,6 +99,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 <div align="center">
 
-**⭐ If you find this project useful, please consider giving it a star!**
+**If you find this project useful, please consider giving it a star!**
 
 </div>
